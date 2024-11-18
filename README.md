@@ -1,2 +1,2 @@
 # God-Petting-Choice
-link to download playable demo
+download the .7z file, and then unzip it, click exe to begin the game
